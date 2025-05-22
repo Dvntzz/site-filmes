@@ -79,7 +79,7 @@ _(Replace this link with your deployment URL)_
 
 ## 📸 Preview
 
-![project preview](https://via.placeholder.com/800x400?text=Insert+a+screenshot+of+your+site+here)
+[project preview](https://via.placeholder.com/800x400?text=Insert+a+screenshot+of+your+site+here)
 
 
 ## 🚀 Features
@@ -140,4 +140,4 @@ Through this project, I learned how to:
 ## 👨‍💻 Author
 
 Developed with care by **Felipe Dantas do Nascimento**  
-![LinkedIn](https://www.linkedin.com/in/contatofelipedantas/)
+[LinkedIn](https://www.linkedin.com/in/contatofelipedantas/)
