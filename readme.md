@@ -64,7 +64,7 @@ Durante o desenvolvimento desse projeto, aprendi:
 ## 👨‍💻 Autor
 
 Desenvolvido por **Felipe Dantas do Nascimento**  
-[Seu LinkedIn ou GitHub aqui]
+![LinkedIn](https://www.linkedin.com/in/contatofelipedantas/)
 
 # 🇺🇸 Cine Dantas (English Version)
 
@@ -140,4 +140,4 @@ Through this project, I learned how to:
 ## 👨‍💻 Author
 
 Developed with care by **Felipe Dantas do Nascimento**  
-[Your LinkedIn or GitHub here]
+![LinkedIn](https://www.linkedin.com/in/contatofelipedantas/)
