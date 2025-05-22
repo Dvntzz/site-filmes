@@ -7,7 +7,7 @@
 
 ## 🔗 Projeto Online
 
-👉 [**Clique aqui para acessar o site**](#)  
+👉 [**Clique aqui para acessar o site**](https://cine-dantas.vercel.app)  
 _(Substitua este link pela URL de deploy do seu projeto)_
 
 ## 📸 Preview
@@ -73,7 +73,7 @@ Desenvolvido por **Felipe Dantas do Nascimento**
 
 ## 🔗 Live Project
 
-👉 [**Click here to visit the website**](#)  
+👉 [**Click here to visit the website**](https://cine-dantas.vercel.app)  
 _(Replace this link with your deployment URL)_
 
 
