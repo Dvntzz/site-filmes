@@ -5,20 +5,14 @@
 
 **Cine Dantas** é um projeto de catálogo de filmes que utiliza a [API The Movie DB](https://www.themoviedb.org/) para exibir filmes populares, permitir buscas por título e aplicar filtros por gênero. Esse projeto foi desenvolvido com o objetivo de praticar e aplicar conhecimentos de **JavaScript**, **Tailwind CSS** e integração com **APIs externas**.
 
----
-
 ## 🔗 Projeto Online
 
 👉 [**Clique aqui para acessar o site**](#)  
 _(Substitua este link pela URL de deploy do seu projeto)_
 
----
-
 ## 📸 Preview
 
 ![preview do projeto](https://via.placeholder.com/800x400?text=Insira+um+print+do+site+aqui)
-
----
 
 ## 🚀 Funcionalidades
 
@@ -31,8 +25,6 @@ _(Substitua este link pela URL de deploy do seu projeto)_
 - ✅ Layout responsivo
 - ✅ Estilo moderno com **Tailwind CSS**
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 | Tecnologia        | Descrição                                    |
@@ -41,8 +33,6 @@ _(Substitua este link pela URL de deploy do seu projeto)_
 | JavaScript       | Lógica, requisições API e renderização       |
 | Tailwind CSS     | Estilização responsiva e utilitária moderna  |
 | The Movie DB API | Fonte dos dados sobre filmes                 |
-
----
 
 ## 📁 Estrutura do Projeto
 
@@ -54,8 +44,6 @@ _(Substitua este link pela URL de deploy do seu projeto)_
 └── README.md          # Descrição do projeto
 ```
 
----
-
 ## 💡 Aprendizados
 
 Durante o desenvolvimento desse projeto, aprendi:
@@ -66,8 +54,6 @@ Durante o desenvolvimento desse projeto, aprendi:
 - Implementação de **modo escuro com Tailwind**
 - Criar interfaces com busca, filtros e paginação
 
----
-
 ## 📚 Links Úteis
 
 - [Documentação da API The Movie DB](https://developers.themoviedb.org/3/getting-started/introduction)
@@ -75,35 +61,26 @@ Durante o desenvolvimento desse projeto, aprendi:
 - [Wrappers & Bibliotecas](https://www.themoviedb.org/documentation/api/wrappers-libraries)
 - [Status da API](https://status.themoviedb.org)
 
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Felipe Dantas do Nascimento**  
 [Seu LinkedIn ou GitHub aqui]
 
----
-
----
-
 # 🇺🇸 Cine Dantas (English Version)
 
 **Cine Dantas** is a movie catalog project that integrates with [The Movie DB API](https://www.themoviedb.org/) to display popular movies, allow searches by title, and apply filters by genre. This application was built as a practical project to learn and apply **JavaScript**, **Tailwind CSS**, and external **API integration**.
 
----
 
 ## 🔗 Live Project
 
 👉 [**Click here to visit the website**](#)  
 _(Replace this link with your deployment URL)_
 
----
 
 ## 📸 Preview
 
 ![project preview](https://via.placeholder.com/800x400?text=Insert+a+screenshot+of+your+site+here)
 
----
 
 ## 🚀 Features
 
@@ -116,7 +93,6 @@ _(Replace this link with your deployment URL)_
 - ✅ Fully responsive layout
 - ✅ Modern styling using **Tailwind CSS**
 
----
 
 ## 🛠️ Technologies Used
 
@@ -139,7 +115,7 @@ _(Replace this link with your deployment URL)_
 └── README.md          # Project description
 ```
 
----
+
 
 ## 💡 Learning Highlights
 
@@ -151,7 +127,6 @@ Through this project, I learned how to:
 - Implement **Dark Mode** using Tailwind’s `dark:` modifier
 - Create interactive UI with filters, search, and pagination
 
----
 
 ## 📚 Useful Links
 
@@ -160,7 +135,7 @@ Through this project, I learned how to:
 - [API Wrappers & Libraries](https://www.themoviedb.org/documentation/api/wrappers-libraries)
 - [API Status Page](https://status.themoviedb.org)
 
----
+
 
 ## 👨‍💻 Author
 
