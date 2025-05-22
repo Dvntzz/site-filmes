@@ -11,7 +11,7 @@
 
 ## 📸 Preview
 
-![preview do projeto](https://via.placeholder.com/800x400?text=Insira+um+print+do+site+aqui)
+![preview do projeto](![image](https://github.com/user-attachments/assets/4a788bd8-4407-4c08-b43a-c38073972bac))
 
 ## 🚀 Funcionalidades
 
@@ -77,7 +77,7 @@ Desenvolvido por **Felipe Dantas do Nascimento**
 
 ## 📸 Preview
 
-[project preview](https://via.placeholder.com/800x400?text=Insert+a+screenshot+of+your+site+here)
+[project preview](![image](https://github.com/user-attachments/assets/edaa7dba-3851-4593-a5c4-a1356e6b376d))
 
 
 ## 🚀 Features
